@@ -4,10 +4,10 @@
  * Used for programming servers and all sorts of things
 
 ## Installing python
-On macs, python should come preinstalled. Otherwise, click [here](https://www.python.org/). The click `Downloads` and find the latest version of python 2.
+On macs, Python should come preinstalled. Otherwise, click [here](https://www.python.org/). The click `Downloads` and find the latest version of python 2.
 
 ## Git
-Git is a *version control system* (vcs) that allows you to save your code to [github](https://github.com/) and collaborate on projects. It's very nice. There will be a [lesson on git and github]({{ "/general/lessons/git" | absolute_url }}) later, but for now just [install it](https://git-scm.com/downloads). On a mac, git will automatically install itself when you try to use it.
+Git is a *version control system* (VCS) that allows you to save your code to [GitHub](https://github.com/) and collaborate on projects. It's very nice. There will be a [lesson on Git and GitHub]({{ "/general/lessons/git" | absolute_url }}) later, but for now just [install it](https://git-scm.com/downloads). On a Mac, Git will automatically install itself when you try to use it.
 
 ## Command prompt/terminal
 **Windows:** Run *Git Bash* from the start menu. Consider getting Linux.
@@ -16,9 +16,9 @@ Git is a *version control system* (vcs) that allows you to save your code to [gi
 
 **Mac OSX:** Run *Terminal* from Applications. Consider getting Linux.
 
-The terminal is where you type commands, and your computer does them. Be careful not to break your computer. You use the terminal for running programs, editing files in vim, navigating files (like file explorer, but better), and doing just about anything you want. In terminal, you can press tab to autocomplete and the up (and down) arrow to go to previous commands.
+The terminal is where you type commands, and your computer does them. Be careful not to break your computer. You use the terminal for running programs, editing files in Vim, navigating files (like file explorer, but better), and doing just about anything you want. In terminal, you can press tab to autocomplete and the up (and down) arrow to go to previous commands.
 
-## Running the python interpreter
+## Running the Python interpreter
 Type `python` into your terminal and hit enter. You should see something like this:
 
     Python 2.7.13 (default, Jan 19 2017, 14:48:08)
@@ -26,7 +26,7 @@ Type `python` into your terminal and hit enter. You should see something like th
     Type "help", "copyright", "credits" or "license" for more information.
     >>>
 
-This is the **python interpreter**.
+This is the **Python interpreter**.
 
 If it doesn’t look exactly like this, don’t worry. As long as it says `Python 2.7` and has the `>>>` prompt, everything is working properly.
 

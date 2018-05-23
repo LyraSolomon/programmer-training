@@ -44,5 +44,5 @@
 ## Visual Mode
 * `v` goes into visual mode, highlighting characters, preparing them for other commands. **NOTE**: The highlighter starts from the character the cursor's on and is unidirectional. **NOTE**: The character the cursor is on counts as highlighted.
 * `d` deletes the highlighted characters.
-* `y` copies the highlighted characters, alowing them to be pasted elsewhere (including other files).
+* `y` copies the highlighted characters, allowing them to be pasted elsewhere (including other files).
 * `esc` switches from insert/visual mode to normal mode.

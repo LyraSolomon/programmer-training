@@ -1,5 +1,5 @@
 # Lessons (in order):
- * [getting started](getting-started) - python interpreter & installing python, git, and a text editor
+ * [getting started](getting-started) - Python interpreter & installing Python, Git, and a text editor
  * [printing and arithmetic](basics)
  * [variables & `raw_input()`](variables) - get input from the user, use text and numbers stored as variables
  * [types](types) - learn about integers, floats, strings, and converting between types
@@ -11,6 +11,6 @@
  * [DRY: Don't Repeat Yourself](dry) - become a good programmer by not unnecessarily repeating code. Sorry if this lesson is a bit dry.
  * [classes](classes) - **Q:** Who doesn't like object-oriented programming? **A:** lots of people
  * [modules](modules) - use code from other files and helpful code that other people have made for you
- * [git & github](git) - version-control system, for collaborating on projects. No, it's not like google drive. Git is difficult until you get the hang of it.
+ * [git & github](git) - version-control system, for collaborating on projects. No, it's not like Google Drive. Git is difficult until you get the hang of it.
  * [code review](code-review) - practice catching other people's mistakes
- * [vim](vim) - optional lesson on using vim, a customizable text editor that has tons of shortcuts but is hard to use
+ * [vim](vim) - optional lesson on using Vim, a customizable text editor that has tons of shortcuts but is hard to use

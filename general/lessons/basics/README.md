@@ -36,6 +36,7 @@ Arithmetic and logical calculations in Python follow the order of operations. He
 * `**` **E**xponent
 * `*`,`/` **M**ultiplication, **D**ivision
 * `+`,`-` **A**ddition, **S**ubtraction
+* `>>`,`<<` Bitshift Operations (not often used)
 * `^`,`&`,`|` Bitwise Operations (not often used)
 * `>`,`<`,`>=`,`<=`,`==`,`!=` Comparison
 * `not`
@@ -43,16 +44,6 @@ Arithmetic and logical calculations in Python follow the order of operations. He
 * `or`
 
 For exponents, be sure not to use `^`. It is a bitwise xor operator and will give you very different numbers.
-When you divide two numbers without decimals, the result is always rounded down. For example:
-
-    5 / 2 = 2
-
-When at least one of the numbers you’re dividing is a decimal number, Python interprets this as regular division and gives correct results:
-
-    5.0 / 2 = 2.5
-    5.0 / 2.0 = 2.5
-
-We’ll talk more about this phenomenon later!
 
 ## Try it!
 Print arithmetic expressions in both the Python REPL and by running files.

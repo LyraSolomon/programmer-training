@@ -94,7 +94,7 @@ Mount Points
 
 Be able to...
 
-* **Use `cc_library`, `cc\_binary`, and `cc_test` in real code**
+* **Use `cc_library`, `cc_binary`, and `cc_test` in real code**
 
 >**Know when and how to properly declare dependencies in code**
 

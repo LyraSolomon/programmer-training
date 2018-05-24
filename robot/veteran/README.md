@@ -32,7 +32,7 @@ There are a lot of developers who post information on how to do specific git thi
 
 * [Pull Requests and Code Review Guidelines (Code Inspection Checklist)] (http://www.literateprogramming.com/Baldwin-inspect.pdf)
 
-* [Test your basic knowledge of Git] (http://gitreal.codeschool.com/levels/1/challenges/1)
+* [Test your Basic Knowledge of Git] (http://gitreal.codeschool.com/levels/1/challenges/1)
 
 ##C++
 
@@ -94,7 +94,7 @@ Mount Points
 
 Be able to...
 
-* **Use cc_library, cc_binary, and cc_test in real code**
+* **Use `cc_library`, `cc\_binary`, and `cc_test` in real code**
 
 >**Know when and how to properly declare dependencies in code**
 
@@ -283,7 +283,7 @@ Be able to...
 
 * [254-Taking Control of your Robot] (https://www.team254.com/documents/control/)
 
-* [254+971-Motion Planning and Control (youtube)] (https://www.youtube.com/watch?v=8319J1BEHwM)
+* [254+971-Motion Planning and Control (YouTube)] (https://www.youtube.com/watch?v=8319J1BEHwM)
 
 ##Vision
 
@@ -320,6 +320,6 @@ Be able to...
 
 ###Resources
 
-* [OpenCV tutorials] (http://docs.opencv.org/master/d9/df8/tutorial_root.html)
+* [OpenCV Tutorials] (http://docs.opencv.org/master/d9/df8/tutorial_root.html)
 
 * [254 "integrating Computer Vision and Motion Control"] (https://www.team254.com/documents/vision-control)

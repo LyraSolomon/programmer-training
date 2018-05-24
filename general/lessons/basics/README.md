@@ -1,8 +1,8 @@
-## Python Interpreter
-* So far, all of the code you’ve written has been in the Python interpreter
-* The interpreter is great for testing ideas or simple one-liners
+## Python REPL
+* So far, all of the code you’ve written has been in the Python REPL
+* The REPL is great for testing ideas or simple one-liners
 * It does not easily allow you to save your code between runs
-* If you want to work on a program where you will be frequently editing, saving and working on your code, the interpreter is not ideal
+* If you want to work on a program where you will be frequently editing, saving and working on your code, the REPL is not ideal
 
 ## Vim
 * Take a look at the [lesson on Vim](/general/lessons/vim).
@@ -30,14 +30,17 @@ Try printing these arithmetic calculations and see what happens!
 Once you are familiar with these, try one that shows 5 arithmetic expressions of your choice that results in the number 42. Feel free to look up how to do any fancy expressions.
 
 ## Order of operations
-Arithmetic calculations in Python follow the order of operations. Here is the hierarchy (PEMDAS):
+Arithmetic and logical calculations in Python follow the order of operations. Here is the hierarchy (PEMDAS):
 
 * `()` **P**arentheses
 * `**` **E**xponent
-* `*` **M**ultiplication
-* `/` **D**ivision
-* `+` **A**ddition
-* `-` **S**ubtraction
+* `*`,`/` **M**ultiplication, **D**ivision
+* `+`,`-` **A**ddition, **S**ubtraction
+* `^`,`&`,`|` Bitwise Operations (not often used)
+* `>`,`<`,`>=`,`<=`,`==`,`!=` Comparison
+* `not`
+* `and`
+* `or`
 
 For exponents, be sure not to use `^`. It is a bitwise xor operator and will give you very different numbers.
 When you divide two numbers without decimals, the result is always rounded down. For example:
@@ -52,4 +55,4 @@ When at least one of the numbers you’re dividing is a decimal number, Python i
 We’ll talk more about this phenomenon later!
 
 ## Try it!
-Print arithmetic expressions in both the Python interpreter and by running files.
+Print arithmetic expressions in both the Python REPL and by running files.

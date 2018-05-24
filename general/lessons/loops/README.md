@@ -51,7 +51,7 @@ If you do, it will quickly get **very** confusing and hard to follow. In most ca
 
 ### DO NOT CREATE CODE THAT REPEATS FOREVER
 
-In terminal, try running `cat /dev/urandom` or `yes This is an infinite loop`. Not very fun, is it? Here's a python program that does the same thing:
+In terminal, try running `cat /dev/urandom` or `yes This is an infinite loop`. Not very fun, is it? Here's a Python program that does the same thing:
 
 ```
 while (True):

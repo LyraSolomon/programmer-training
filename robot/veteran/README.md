@@ -170,9 +170,9 @@ Be able to...
 
 Understand...
 
-* **Common syntax used in python**
+* **Common syntax used in Python**
 * Numpy, especially with matrices and linear algebra
-* Generation of C++ code from python
+* Generation of C++ code from Python
 
 ###Resources
 
